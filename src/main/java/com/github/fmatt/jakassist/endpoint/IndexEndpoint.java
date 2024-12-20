@@ -1,4 +1,4 @@
-package com.github.fmatt.jakassist.endpoints;
+package com.github.fmatt.jakassist.endpoint;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
